@@ -44,7 +44,8 @@
    This audit has served us to understand who won the election and how many voters has the winner obtain.
    
 ## Challenge Summary
-     -This code can be refactored to to obtain more information of the county and recognize areas for a future
-     campaign so we can utilize monetary resources on a more effective way.Understand areas where we did not impact 
-     and learn from our mistakes in why we did not succeed in that area. Survey area to obtain new data.
+
+     - This code can be refactored to to obtain more information of the county and recognize areas for a
+     future campaign so we can utilize monetary resources on a more effective way.Understand areas where
+     we did not impact and learn from our mistakes in why we did not succeed in that area. Survey area to obtain new data.
       
